@@ -1,0 +1,21 @@
+post_id,user_id,parent_id,timestamp,text,label
+P001,U001,,2026-09-20 10:00:00,"Breaking news: a miracle drink can cure every disease instantly",misinformation
+P002,U002,P001,2026-09-20 10:05:00,"I heard this miracle drink can cure every disease",misinformation
+P003,U003,P001,2026-09-20 10:07:00,"People are sharing this claim everywhere",misinformation
+P004,U004,P001,2026-09-20 10:10:00,"Is this cure really confirmed?",misinformation
+P005,U005,P002,2026-09-20 10:18:00,"Sharing this because everyone should know about the miracle cure",misinformation
+P006,U006,P002,2026-09-20 10:22:00,"My friend says the same treatment works",misinformation
+P007,U007,P003,2026-09-20 10:25:00,"This claim is spreading very quickly online",misinformation
+P008,U008,P003,2026-09-20 10:28:00,"Please verify before sharing this claim",misinformation
+P009,U009,P004,2026-09-20 10:35:00,"I am not sure this medical claim is true",misinformation
+P010,U010,P005,2026-09-20 10:44:00,"More people are reposting the alleged cure",misinformation
+P011,U011,P005,2026-09-20 10:48:00,"The post says the treatment works instantly",misinformation
+P012,U012,P006,2026-09-20 10:55:00,"I saw another account repeating this claim",misinformation
+P013,U013,P007,2026-09-20 11:10:00,"Users are discussing whether the claim is reliable",misinformation
+P014,U014,P007,2026-09-20 11:15:00,"This rumor has reached many people",misinformation
+P015,U015,P010,2026-09-20 11:30:00,"The supposed miracle cure is being widely reposted",misinformation
+P016,U016,,2026-09-20 12:00:00,"The city transport authority published the timetable today",non-misinformation
+P017,U017,P016,2026-09-20 12:05:00,"The official timetable is available on the authority website",non-misinformation
+P018,U018,P016,2026-09-20 12:08:00,"Thanks for sharing the official schedule",non-misinformation
+P019,U019,P017,2026-09-20 12:12:00,"The schedule lists the updated bus timings",non-misinformation
+P020,U020,P017,2026-09-20 12:15:00,"I checked the published timetable",non-misinformation
